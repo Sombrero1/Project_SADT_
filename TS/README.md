@@ -1,4 +1,3 @@
-# Project_SADT_
 ## Макет
 ![Макет](https://i.ibb.co/YfTHy5V/Layout.png)
 ## Функциональные требования:
