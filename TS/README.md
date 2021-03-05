@@ -1,5 +1,5 @@
 # Project_SADT_
-[Макет](https://disk.yandex.ru/i/o4sZYH1WCZGZmw)
+![Макет](https://1.downloader.disk.yandex.ru/preview/bc173465f5a208a2115d5921a7ffe6c91edb716892fa8d1aa6f70f1e8b90866c/inf/rMIoGc7ZAQiroIwhmoWfsk9HwqROlgkLFpFoaZT6N7VXz8jD9FlRnO9AvKVfYB_-Ky20liNNRi4v7d1dK7SmrQ%3D%3D?uid=224742998&filename=Макет.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=224742998&tknv=v2&size=2279x1090)
 ## Функциональные требования:
 -----------------------------------------------------------------
 ###### Заказчик	Как	Пользователь системы  <br/>
