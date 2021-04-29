@@ -1,0 +1,3 @@
+[submodule "qmlTrello"]
+	path = qmlTrello
+	url = git://github.com/Evgeniyone/qmlTrello
