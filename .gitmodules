@@ -1,3 +1,6 @@
 [submodule "qmlTrello"]
 	path = qmlTrello
 	url = git://github.com/Evgeniyone/qmlTrello
+[submodule "Restful_app_notes"]
+	path = Restful_app_notes
+	url = git://github.com/Sombrero1/Restful_app_notes.git
